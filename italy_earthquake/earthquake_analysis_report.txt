@@ -1,0 +1,17 @@
+Earthquake Analysis Report
+==============================
+Basic Statistics:
+          Latitude    Longitude     Depth/Km    Magnitude
+count  8086.000000  8086.000000  8086.000000  8086.000000
+mean     42.829557    13.161034     9.968328     2.398368
+std       0.125927     0.083058     2.194064     0.426381
+min      41.581300    12.537700     0.200000     2.000000
+25%      42.751350    13.103200     8.900000     2.100000
+50%      42.821800    13.160700     9.900000     2.300000
+75%      42.911000    13.215650    10.800000     2.600000
+max      43.927300    13.852500    47.900000     6.500000
+
+Magnitude Distribution:
+Min: 2.0, Max: 6.5, Mean: 2.40
+
+Geographic distribution and additional insights are visualized in the generated maps and charts.
